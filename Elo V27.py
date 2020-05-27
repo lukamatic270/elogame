@@ -1,4 +1,5 @@
 #I use the dictionary for teams and their ELO vaues.
+#Practicing using Git Functionality
 thisdict =	{
 #Premier League
   'liverpool': 2043,
